@@ -1,0 +1,22 @@
+{
+  "name": "daft",
+  "version": "1.0.0",
+  "description": "It is a cloud assignment website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zeeshan Asgar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asgarz2/daft.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
